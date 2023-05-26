@@ -200,3 +200,51 @@ footer nav ul li a {
     flex-basis: 100%;
   }
 }
+
+
+/* API Development Section */
+section#api-development {
+  padding: 80px 20px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.api-development-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.api-development-container h3 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.api-development-container p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.api-development-container ul {
+  list-style: disc;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.api-development-container ul li {
+  margin-bottom: 10px;
+}
+
+.api-development-container .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.api-development-container .btn:hover {
+  background-color: #555;
+}
