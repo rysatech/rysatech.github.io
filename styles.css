@@ -41,7 +41,6 @@ nav ul li a {
 
 /* Hero Section */
 section#home {
-  background-image: url("hero-background.jpg");
   background-size: cover;
   background-position: center;
   padding: 100px 20px;
