@@ -48,7 +48,9 @@ section#home {
   text-align: center;
   color: #fff;
 }
-
+.hero-content {
+  color: black;
+}
 .hero-content h2 {
   font-size: 36px;
   font-weight: bold;
