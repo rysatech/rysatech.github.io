@@ -248,3 +248,97 @@ section#api-development {
 .api-development-container .btn:hover {
   background-color: #555;
 }
+
+/* Operations Section */
+section#operations {
+  padding: 80px 20px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.operations-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.operations-container h2 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.operations-container p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.operations-container ul {
+  list-style: disc;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.operations-container ul li {
+  margin-bottom: 10px;
+}
+
+.operations-container .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.operations-container .btn:hover {
+  background-color: #555;
+}
+
+/* Software Consulting Section */
+section#software-consulting {
+  padding: 80px 20px;
+  text-align: center;
+  background-color: #f2f2f2;
+}
+
+.consulting-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.consulting-container h2 {
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.consulting-container p {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.consulting-container ul {
+  list-style: disc;
+  margin-left: 40px;
+  margin-bottom: 20px;
+}
+
+.consulting-container ul li {
+  margin-bottom: 10px;
+}
+
+.consulting-container .btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.consulting-container .btn:hover {
+  background-color: #555;
+}
