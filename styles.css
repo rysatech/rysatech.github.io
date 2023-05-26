@@ -3,6 +3,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  color: #333;
 }
 
 /* Header Section */
@@ -52,13 +53,11 @@ section#home {
   font-size: 36px;
   font-weight: bold;
   margin-bottom: 20px;
-  color: black;
 }
 
 .hero-content p {
   font-size: 18px;
   margin-bottom: 40px;
-  color: black;
 }
 
 .cta-buttons .btn {
@@ -79,6 +78,7 @@ section#home {
 section#services {
   padding: 80px 20px;
   text-align: center;
+  background-color: #f2f2f2;
 }
 
 .services-container {
@@ -201,12 +201,12 @@ footer nav ul li a {
   }
 }
 
-
 /* API Development Section */
 section#api-development {
   padding: 80px 20px;
   text-align: center;
   background-color: #f2f2f2;
+  color: #333;
 }
 
 .api-development-container {
@@ -223,12 +223,14 @@ section#api-development {
 .api-development-container p {
   font-size: 16px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .api-development-container ul {
   list-style: disc;
   margin-left: 40px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .api-development-container ul li {
@@ -254,6 +256,7 @@ section#operations {
   padding: 80px 20px;
   text-align: center;
   background-color: #f2f2f2;
+  color: #333;
 }
 
 .operations-container {
@@ -270,12 +273,14 @@ section#operations {
 .operations-container p {
   font-size: 16px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .operations-container ul {
   list-style: disc;
   margin-left: 40px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .operations-container ul li {
@@ -301,6 +306,7 @@ section#software-consulting {
   padding: 80px 20px;
   text-align: center;
   background-color: #f2f2f2;
+  color: #333;
 }
 
 .consulting-container {
@@ -317,12 +323,14 @@ section#software-consulting {
 .consulting-container p {
   font-size: 16px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .consulting-container ul {
   list-style: disc;
   margin-left: 40px;
   margin-bottom: 20px;
+  text-align: left;
 }
 
 .consulting-container ul li {
